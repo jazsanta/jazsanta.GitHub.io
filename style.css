@@ -1,4 +1,4 @@
-{
+    *{
         font-family: Arial, helvatica, sans-serif;
 
     }
@@ -62,7 +62,7 @@
         letter-spacing: 2px;
     }
 
-    .navbar-light .navbar-brand: .navbar-light .navbar-brand:hover {
+    .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
         color: #000;
     }
 
